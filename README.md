@@ -22,6 +22,7 @@ I'm going to create some "lessons" where I'll put che code that I'm going to cre
 
 <summary>1° Lesson</summary>
 
+### 1° Lesson
 C++ is an extension of C. So, the way to initialize variables and data type are the same of C. To print output you have to use an object called cout and to take an input you have to use cin. The standard Library to import is <iostream> and to avoid writing on each line std:: I have to write "using namespace std". For example:
 
 ```c++
